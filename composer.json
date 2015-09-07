@@ -1,0 +1,21 @@
+{
+  "name": "dumuro/yii2-widget-jqwidgets",
+  "description": "Collection of useful widgets for Yii Framework 2.0 extending functionalities",
+  "keywords": ["yii2", "extension", "widget"],
+  "homepage": "https://github.com/dumuro/yii2-widget-jqwidgets",
+  "type": "yii2-extension",
+  "license": "GNU General Public License",
+  "authors": [
+    {
+      "name": "dumuro",
+      "email": "dumuro@gmail.com",
+      "homepage": "http://www.dumuro.ru/"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "dumuro\\yii2-widget-jqwidgets\\": ""
+    }
+  }
+}
