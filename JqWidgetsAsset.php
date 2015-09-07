@@ -1,6 +1,6 @@
 <?php
 
-namespace app\extentions\yii2_widget_jqwidgets;
+namespace dumuro\yii2_widget_jqwidgets;
 
 use yii\web\AssetBundle;
 
