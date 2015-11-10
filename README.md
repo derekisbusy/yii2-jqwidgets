@@ -18,7 +18,7 @@ to the ```require``` section of your `composer.json` file.
 
 # License
 
-yii2-widget-jqwidgets is released under the GNU General Public License. See the bundled LICENSE.md for details.
+yii2-jqwidgets is released under the GNU General Public License. See the bundled LICENSE.md for details.
 
 ##Examples
 
