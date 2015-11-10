@@ -1,6 +1,6 @@
 <?php
 
-namespace dumuro\yii2_widget_jqwidgets;
+namespace derekisbusy\jqwidgets;
 
 use yii\base\Widget;
 use yii\helpers\Json;
@@ -33,7 +33,7 @@ class JqWidgets extends Widget
     {
         $view = $this->getView();
         JqWidgetsAsset::register($view);
-
+        
         $id = $id = 'jQuery("#' . $this->id . '")';
 
         if( count($this->options) > 0 )

@@ -18,7 +18,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "dumuro\\yii2-widget-jqwidgets\\": ""
+      "derekisbusy\\yii2-jqwidgets\\": ""
     }
   }
 }
