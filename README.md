@@ -23,6 +23,8 @@ yii2-jqwidgets is released under the GNU General Public License. See the bundled
 ##Examples
 
 ```php
+use derekisbusy\jqwidgets\JqWidgets;
+
 echo JqWidgets::widget([
     'type' => 'jqxButton',
     'options' => [
@@ -35,6 +37,8 @@ echo JqWidgets::widget([
 ```
 
 ```php
+use derekisbusy\jqwidgets\JqWidgets;
+
 $button = JqWidgets::begin([
     'type' => 'jqxButton',
     'options' => [
