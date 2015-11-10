@@ -28,9 +28,9 @@ class JqWidgetsAsset extends AssetBundle {
 
     /** @var array  */
     public $depends = [
-        'yii\bootstrap\BootstrapAsset',
-        'yii\bootstrap\BootstrapThemeAsset',
-        'yii\web\YiiAsset'
+//        'yii\bootstrap\BootstrapAsset',
+//        'yii\bootstrap\BootstrapThemeAsset',
+//        'yii\web\YiiAsset'
     ];
 
     /**
