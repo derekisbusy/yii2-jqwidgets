@@ -12,6 +12,9 @@
       "homepage": "http://www.dumuro.ru/"
     }
   ],
+  "require": {
+      "bower-asset/jqwidgets": "*"
+  },
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
